@@ -1,2 +1,3 @@
 # toy_ds_project
-Awwww
+Project creation date: 2.7
+Auther: Peter Yin
